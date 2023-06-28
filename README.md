@@ -1,3 +1,7 @@
+The text analyzer is a versatile tool designed to assist users in manipulating and transforming text effortlessly. With this tool, users can convert text to upper case or lower case, remove extra spaces for a clean presentation, and easily copy the modified text for further use. Whether you need to format text for a document, clean up input data, or simply make text stand out, the text analyzer provides a user-friendly interface to streamline these tasks with ease.
+live site:
+![Screenshot (19)](https://github.com/shikharpaudel/NewsFeed/assets/75170007/2828769c-b191-42d9-81c6-68daab85462d)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
