@@ -1,4 +1,5 @@
-A responsive news app using React js that leverages the newsAPI to fetch and display news from variouscategories.
+A responsive news app using React js that leverages the newsAPI to fetch and display news from various categories.
+
 live site:
 ![Screenshot (23)](https://github.com/shikharpaudel/NewsFeed/assets/75170007/e2fee9ae-be49-4e7d-abfb-7c19fa04f753)
 ![Screenshot (20)](https://github.com/shikharpaudel/NewsFeed/assets/75170007/140e18bc-4ce8-485c-a54f-088ab057350e)
